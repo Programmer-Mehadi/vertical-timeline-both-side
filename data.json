@@ -1,0 +1,30 @@
+{
+  "status": true,
+  "data": [
+    {
+      "startTime": "08:45",
+      "endTime": "03:45",
+      "content": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat."
+    },
+    {
+      "startTime": "11:45",
+      "endTime": "10:45",
+      "content": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."
+    },
+    {
+      "startTime": "12:45",
+      "endTime": "04:45",
+      "content": "Node. js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser. Ryan Dahl developed it in 2009, and its latest iteration, version 15.14, was released in April 2021. Developers use Node."
+    },
+    {
+      "startTime": "12:45",
+      "endTime": "04:45",
+      "content": "Node. js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser. Ryan Dahl developed it in 2009, and its latest iteration, version 15.14, was released in April 2021. Developers use Node."
+    },
+    {
+      "startTime": "12:45",
+      "endTime": "04:45",
+      "content": "Node. js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser. Ryan Dahl developed it in 2009, and its latest iteration, version 15.14, was released in April 2021. Developers use Node."
+    }
+  ]
+}
