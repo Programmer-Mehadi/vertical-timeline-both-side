@@ -8,7 +8,7 @@
 
 #vertical_timeline_two_side_container {
   background-color: rgba(210, 118, 133, 0.3);
-  min-width: 100vw;
+  min-width: 100%;
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -76,7 +76,7 @@
   height: 20px;
   border-radius: 50%;
   position: absolute;
-  top: calc(50% - 12px);
+  top: calc(50% - 0.56rem);
 }
 #vertical_timeline_two_side_container .body .child .right {
   grid-column-start: 6;
@@ -97,7 +97,7 @@
   .visibitity_hidden {
     display: none !important;
   }
-  #vertical_timeline_two_side_container .body{
+  #vertical_timeline_two_side_container .body {
     display: flex;
     flex-direction: column;
     gap: 20px;
