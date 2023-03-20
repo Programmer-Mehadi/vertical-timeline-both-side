@@ -76,7 +76,7 @@
   height: 20px;
   border-radius: 50%;
   position: absolute;
-  top: calc(50% - 0.56rem);
+  top: calc(50% - 0.52rem);
 }
 #vertical_timeline_two_side_container .body .child .right {
   grid-column-start: 6;
